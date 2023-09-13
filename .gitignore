@@ -1,0 +1,5 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/sprout_demo/.dart_tool/
+/sprout_demo/build/
